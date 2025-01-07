@@ -2,6 +2,9 @@
 
 > 学习rust的练习项目,shellcode未经加密解密处理❗
 
+## Rust环境
+请参考 [Rust环境配置说明](./RUST.md)
+
 ## 使用
 运行`gen.py`填入url, 以及注入的进程(默认为notepad)
 ``` python
